@@ -11,3 +11,5 @@ There's a commit for each module in the course, as well as a tag:
 - [After module 7: HTTP and FastAPI](https://github.com/codesensei-courses/fastapi_fundamentals/releases/tag/http)
 - [After module 8: Authentication](https://github.com/codesensei-courses/fastapi_fundamentals/releases/tag/authentication)
 - [After module 9: Testing and Deployment](https://github.com/codesensei-courses/fastapi_fundamentals/releases/tag/test-and-deploy)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
